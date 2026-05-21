@@ -120,7 +120,7 @@ source("scripts/Risk_prediction.R")
 
 - **KCNQ1**: p.R190W, p.R594Q, p.R190W & p.R594Q, p.A341V
 - **KCNH2**: p.R366X, p.A561V, p.T983I, p.R823W
-- **Wild-type control**: WTC-11
+- **Wild-type controls**: WTC-11 and S34Ec16
 
 ## License
 
