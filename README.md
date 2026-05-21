@@ -131,3 +131,5 @@ You are free to share and adapt this material for non-commercial purposes, provi
 ## Citation
 
 Khudiakov A, Mura M, Giannetti F, Leonov V, Alberio C, Eskandr M, Lonati PA, Borghi MO, Brink PA, Crotti L, Gnecchi M, Schwartz PJ, Sala L. Machine learning-guided risk stratification for Long QT Syndrome genetic variants with hiPSC-derived cardiomyocytes. Cardiovasc Res. 2026 May 14:cvag105. doi: 10.1093/cvr/cvag105. Epub ahead of print. PMID: 42133816.
+
+Link to the study: https://doi.org/10.1093/cvr/cvag105
